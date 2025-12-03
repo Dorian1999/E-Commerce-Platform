@@ -1,5 +1,7 @@
 # E-Commerce Platform
 
+Live Demo:https://e-commerce-platform-mauve-eight.vercel.app/
+
 A modern, full-featured E-Commerce Platform built with React (Vite) and Tailwind CSS. This platform demonstrates advanced state management using React Context API and component composition.
 
 ## Features
@@ -109,4 +111,5 @@ Modify `src/mockData/products.js` to add or change products.
 ## License
 
 This project is open source and available for personal and commercial use.
+
 
